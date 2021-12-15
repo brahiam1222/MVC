@@ -4,14 +4,14 @@
     {
             public function Inicio()
             {
-                include_once("vistas/paginas/inicio.php")
+                include_once("vistas/paginas/inicio.php");
 
 
             }
-    {
+    
             public function Error()
             {
-                include_once("vistas/paginas/error.php")
+                include_once("vistas/paginas/error.php");
                 
 
             }

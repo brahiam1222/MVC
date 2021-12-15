@@ -24,7 +24,7 @@
       <div class="container">
           <div class="row">
               <div class="col-12">
-                  Hola soy tu CRUD
+                  <?php   include_once("ruteador.php");       ?>
               </div>
               
           </div>
